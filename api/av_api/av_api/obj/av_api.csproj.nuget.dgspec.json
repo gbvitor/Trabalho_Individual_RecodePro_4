@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sgvit\\source\\repos\\av_api\\av_api\\av_api.csproj": {}
+    "C:\\Users\\sgvit\\OneDrive\\Documentos\\Conteúdos\\Aulas_Recode\\Projetos\\Agência de Viagens 4\\api\\av_api\\av_api\\av_api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sgvit\\source\\repos\\av_api\\av_api\\av_api.csproj": {
+    "C:\\Users\\sgvit\\OneDrive\\Documentos\\Conteúdos\\Aulas_Recode\\Projetos\\Agência de Viagens 4\\api\\av_api\\av_api\\av_api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sgvit\\source\\repos\\av_api\\av_api\\av_api.csproj",
+        "projectUniqueName": "C:\\Users\\sgvit\\OneDrive\\Documentos\\Conteúdos\\Aulas_Recode\\Projetos\\Agência de Viagens 4\\api\\av_api\\av_api\\av_api.csproj",
         "projectName": "av_api",
-        "projectPath": "C:\\Users\\sgvit\\source\\repos\\av_api\\av_api\\av_api.csproj",
+        "projectPath": "C:\\Users\\sgvit\\OneDrive\\Documentos\\Conteúdos\\Aulas_Recode\\Projetos\\Agência de Viagens 4\\api\\av_api\\av_api\\av_api.csproj",
         "packagesPath": "C:\\Users\\sgvit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sgvit\\source\\repos\\av_api\\av_api\\obj\\",
+        "outputPath": "C:\\Users\\sgvit\\OneDrive\\Documentos\\Conteúdos\\Aulas_Recode\\Projetos\\Agência de Viagens 4\\api\\av_api\\av_api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sgvit\\AppData\\Roaming\\NuGet\\NuGet.Config"

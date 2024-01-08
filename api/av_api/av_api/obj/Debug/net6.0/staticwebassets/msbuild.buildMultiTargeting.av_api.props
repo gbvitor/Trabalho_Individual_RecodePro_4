@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\av_api.props" />
+</Project>
